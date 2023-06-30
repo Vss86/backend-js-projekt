@@ -1,6 +1,6 @@
 var express = require("express");
 var router = express.Router();
-const controller = require("../../constrollers/web/login-web-controller");
+const controller = require("../../controllers/web/login-web-controller");
 const { passport } = require("../../utils/passport");
 
 router.get("/", controller.home);
