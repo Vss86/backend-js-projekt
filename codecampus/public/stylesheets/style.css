@@ -62,7 +62,7 @@ input[type="file"] {
 /* -- Header -- */
 
 header {
-  background: url("/images/codecampus.webp");
+  background: url("https://www.codecampus.com/assets/logo-white-fb3eac4e9e7627960a5417e0ac63d2a8995123885eda6cfd5e54bde85a5fca34.png");
   width: 100%;
   min-height: 30rem;
   background-position: center;
@@ -122,7 +122,7 @@ footer {
   justify-content: center;
   color: white;
   font-style: italic;
-  font-size: 0.8em;
+  font-size: 1em;
 }
 
 /* -- Items -- */
